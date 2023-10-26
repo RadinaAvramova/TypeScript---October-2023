@@ -1,17 +1,16 @@
 # TypeScript-October 2023
 
-Курсът "TypeScript" се концентрира върху усвояването на един от най-популярните езици за изграждане на сървърни и Front-End приложения. Създаден от Microsoft, TypeScript надгражда над JavaScript, като добавя статично типизиране. Разгледохме работа с основните типове, които езикът предлага, обектно-ориентирани принципи, ползвайки TypeScript – работа с класове, наследяване, абстракция, interfaces и generics. Допълнително се фокусирахме върху модули и декоратор функции. В предвидения worskhop всички знания се приложиха върху изграждането на една цялостна TypeScript апликация.
+The TypeScript course concentrates on learning one of the most popular languages for building server and front-end applications. Created by Microsoft, TypeScript builds upon JavaScript by adding static typing. The course will cover working with the basic types the language offers, object-oriented principles using TypeScript - working with classes, inheritance, abstraction, interfaces and generics. Additionally it will focus on modules and decorator functions. In the provided worskhop all knowledge will be applied on building a complete TypeScript application.
 
-Умения, които придобих :
+Acquired skills :
 
--Работа със статично типизирани данни в TypeScript
+  - Working with statically typed data in TypeScript
+  
+  - Familiarity with OOP and basic principle
+  
+  - Working with classes, interfaces and generics
 
--Запознаване с ООП и основни принципи
+  - Familiarity with modules and decorators
 
--Работа с класове, интерфейси и generics
+  - Building complete applications with TypeScript
 
--Запознаване с модули и декоратори
-
--Изграждане на цялостни приложения със TypeScript
-
-Преподавател : Цвети Стоянов
